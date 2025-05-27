@@ -1,3 +1,6 @@
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&center=true&vCenter=true&width=500&height=70&lines=I'm+Punit+Kanzariya!)
+
 <h1 align="center">Hi 👋, I'm Punit Kanzariya</h1>
 <h3 align="center">A passionate Jr. Python developer from India</h3>
 
