@@ -19,18 +19,8 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/punitkanzariya/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="mailto:punitkanzariya4706@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
-  </a>
-  <!-- Add more links like Twitter, Instagram, Portfolio etc. -->
-</p>
-
----
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/punitkanzariya/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:punitkanzariya4706@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
 ### 🛠️ Languages & Tools
 
