@@ -1,14 +1,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&center=true&vCenter=true&width=500&height=70&lines=I'm+Punit+Kanzariya!)
 
-<h1 align="center">Hi 👋, I'm Punit Kanzariya</h1>
 <h3 align="center">A passionate Jr. Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitkanzariya&label=Profile%20views&color=0e75b6&style=flat" alt="punitkanzariya" /> </p>
 
 - 🔭 I’m currently working on **python Django**
 
-- 👨‍💻 All of my projects are available at [https://punitkanzariya-portfolio.netlify.app/](https://punitkanzariya-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Punitkanzariya](https://github.com/Punitkanzariya)
 
 - 📫 How to reach me **punitkanzariya4706@gmail.com**
 
