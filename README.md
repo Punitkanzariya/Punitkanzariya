@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Python Django Projects**
+- 🔭 I’m currently working on **Python, Django And Machine Learning**
 - 💡 Interested in Backend Development & AI/ML
 - 📂 All of my projects are available on my [GitHub](https://github.com/Punitkanzariya)
 - 📫 Reach me at: **punitkanzariya4706@gmail.com**
